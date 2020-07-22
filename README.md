@@ -1,1 +1,1 @@
-balance-tracker-backend
+Balance tracker app backend.
